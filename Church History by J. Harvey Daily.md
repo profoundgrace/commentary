@@ -9,31 +9,31 @@ Primitive Publications
 
 Elon NC 2742
 
-## PREFACE
+### PREFACE
 
 Believing that I see the great need of a brief history of the church of Christ so arranged that it can be readily referred to by any who desire to know the most important and the most interesting events, and feeling sure that such a work will tend to confirm the people of God in his promises, I have written this book, and now send it out with the humble hope that my labors in preparing it will not be in vain.  
 
-## Only an elementary work
+#### Only an elementary work
 
 While it is to history only a kind of elementary work, yet the reader will find its pages replete with historic facts so arranged as to form a connected outline of the history of the people now called Baptists.  
 
-## Mosheim’s testimony
+#### Mosheim’s testimony
 
 Mosheim admits that the true origins of this people is “hidden in the depths of antiquity and is, of consequence, extremely difficult to be ascertained.  Their trail is not lost in these dark depths, as Mosheim claims, but may be traced out into the unclouded light of the first century, connecting with the clear footsteps of Jesus and his apostles, thus verifying the promise that the “gates of hell” should not prevail against the church of Christ.  
 
 The witnesses of Jesus have contended earnestly for the faith once delivered to the saints, and have maintained that faith with martyr courage, unfurling the sacred standard of truth in all ages and keeping the ordinances as they were delivered to them.  There can be no more interesting or profitable employment than tracing out the history of such a people.
 
-## A history of the Primitive Baptist Church
+#### A history of the Primitive Baptist Church
 
 I have given but few points in history relative to the various orders that have risen since the days of the apostles, and have confined my writing principally to the history of the Primitive Baptist Church.  It is a self evident fact that any order whose origin is of a recent date, or of any date subsequent to the apostolic day, cannot be the church of christ.  It is absurd to suppose, as some have, that the true church of Christ must be traced through the line of Catholicism.  Such a claim is made by those only who have no other line to follow.
 
-## Brevity the aim
+#### Brevity the aim
 
 I have been brief and have not written all that could be said on the different subjects, but those who want to make a thorough study of the different events can find it in other histories.  I have meant to put before our people a work that would be useful to those who want to know the history of our people.  For this purpose I have endeavored to make the reference as convenient as possible.
 
 May the God of all grace bestow his all important blessings upon these pages that through them many may be confirmed in his promises and his precious name be glorified.
 
-#### J. Harvey Daily
+##### J. Harvey Daily
 
 ## HISTORY OF THE PRIMITIVE BAPTIST CHURCH
 
