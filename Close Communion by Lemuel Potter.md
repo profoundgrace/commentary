@@ -83,6 +83,7 @@ So it is not the church taken in this sense that has ordinances, but we find the
 > “To the angel of the church of the Ephesians,” Rev.  2:1. 
 
 > “Then had the churches rest throughout Judea and Galilee and Samaria, and were edified,” Acts 9:31. 
+
 > “And he went through Syria and Cilicia confirming the churches,” Acts 15:41.  
 
 > “And so were the churches established in the faith, and increased in number daily,” Acts 16:5.
