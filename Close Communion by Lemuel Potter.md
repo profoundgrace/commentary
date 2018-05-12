@@ -29,7 +29,8 @@ __Answer:__ “A deacon should have great boldness in faith.  He did that either
 
 Who those editors were this editor has left us to guess, and I am such a poor guesser that I shall not undertake it.  It is generally common for editors, when they quote from another paper anything of importance, to give the name of the paper, and I think that it is about as easy for a man to know the name of a paper as for him to know what is in it.  But I do not know what paper this was in.  I think if a brother deacon should be guilty of an offense of the sort mentioned in this paper, the brethren should have some forbearance with him, and try to inform him what they require him to do in cases of that kind, and not be quite so unmerciful as is represented in this paper.  I think such treatment too severe for offenses, as it is not brotherly, nor Christian-like.  Whoever is, or has been guilty of such, would by no means have my approval.
 
-> “What is the difference in authority assumed by a Baptist church that forbids other Christians the Lord’s Supper and the Roman Catholic Church that excommunicates its members as a punishment for some disobedience?  The former is a penalty imposed on a Christian for not being a Baptist; the latter is a penalty imposed for violation of the discipline of the church.  The one is denying Christ’s people a right he gave them.  The other is enforcing church discipline.  Judge ye.” (General Baptist Messenger, March 20, 1886.)
+> “What is the difference in authority assumed by a Baptist church that forbids other Christians the Lord’s Supper and the Roman Catholic Church that excommunicates its members as a punishment for some disobedience?  The former is a penalty imposed on a Christian for not being a Baptist; the latter is a penalty imposed for violation of the discipline of the church.  The one is denying Christ’s people a right he gave them.  The other is enforcing church discipline.  Judge ye.”  
+General Baptist Messenger, March 20, 1886.
 
 I confess I do not see the force of this article, though it may be very convincing to those who do see it.  So far as denying the people of God a right He gave them, I do not know of any rights they are entitled to, only such as they enjoy.  If God gave his people a right to commune with us, it must have been on the gospel terms of communion, and when they come to us that way we will receive them.  But let us read another in the same paper of March 20, 1886:
 
@@ -46,12 +47,15 @@ We take all these, as well as remarks that have been frequently made in this com
 ### Terms of Communion 
 
 __Argument 1.__  I argue, first, that the Lord’s Supper is a commemorative rite.  The apostle says: 
-> “For I have received of the Lord that which I also delivered unto you.  That the Lord Jesus, the same night in which He was betrayed, took bread.  And when he had given thanks He brake it and said, take, eat.  This is My body which is broken for you.  This do in remembrance of Me.  After the same manner, also, he took the cup, when he had supped, saying: This cup is the New Testament in My blood.  This do ye, as oft as ye drink of it, in remembrance of Me,” 1Cor. 11:23-25.  
+> “For I have received of the Lord that which I also delivered unto you.  That the Lord Jesus, the same night in which He was betrayed, took bread.  And when he had given thanks He brake it and said, take, eat.  This is My body which is broken for you.  This do in remembrance of Me.  After the same manner, also, he took the cup, when he had supped, saying: This cup is the New Testament in My blood.  This do ye, as oft as ye drink of it, in remembrance of Me,”  
+1Cor. 11:23-25.  
 
-> “And he took bread and gave thanks, and brake it and gave it unto them, saying: This is my body, which is given for you.  This do in remembrance of Me,” Luke 22:19.
+> “And he took bread and gave thanks, and brake it and gave it unto them, saying: This is my body, which is given for you.  This do in remembrance of Me,”  
+Luke 22:19.
 
 __Argument 2.__  My second argument is that, while this ordinance is to be observed in remembrance of our Lord, the particular thing that it is commemorative of is His death.  
-> “For as often as ye eat this bread, and drink this cup, ye do show the Lord's death till he come,” 1 Cor. 11:26.  
+> “For as often as ye eat this bread, and drink this cup, ye do show the Lord's death till he come,”  
+1 Cor. 11:26.  
 
 This commemorative rite is the solemn act by which the disciples call to mind the fact that Christ died for them.  This ordinance, then, is to be observed by such only as can truly and solemnly say, “I believe Christ died for me,” or, in other words, have faith to discern the Lord’s body.
 
@@ -64,32 +68,45 @@ The term church in this text must mean all the saved, and cannot apply simply to
 This text, and others like it, must mean all that will ever be congregated in heaven, from Abel down to the last one that will ever be regenerated and saved.  To the church taken in this sense there can belong no ordinances, because, as a congregation, it will never be in existence until the great day.
 
 So it is not the church taken in this sense that has ordinances, but we find the church frequently used in the New Testament to designate a congregation of visible disciples, baptized believers, meeting in one place for the worship of God, the observance of the ordinances of Jesus and the execution of his laws.  For instance, 
-> “Likewise greet the church that is in their house,” Rom. 16:5.  
+> “Likewise greet the church that is in their house,”  
+Rom. 16:5.  
 
-> “Unto the church of God which is at Corinth,” 1 Cor.  1:2.  
+> “Unto the church of God which is at Corinth,”  
+1 Cor.  1:2.  
 
-> “Aquila and Priscilla salute you much in the Lord, with the church that is in their house,” 1 Cor. 16:19.  
+> “Aquila and Priscilla salute you much in the Lord, with the church that is in their house,”  
+1 Cor. 16:19.  
 
-> “Unto the church of God which is at Corinth,” 2 Cor. 1:1.  
+> “Unto the church of God which is at Corinth,”  
+2 Cor. 1:1.  
 
-> “Salute the brethren which are in Laodicia and Nymphas, and the church which is in his house,” Col. 4:15.  
+> “Salute the brethren which are in Laodicia and Nymphas, and the church which is in his house,”  
+Col. 4:15.  
 
-> “And when this epistle is read among you, cause that it be read also in the church of the Laodicians,” Col. 4:15.  
+> “And when this epistle is read among you, cause that it be read also in the church of the Laodicians,”  
+Col. 4:15.  
 
-> “Paul and Sylvanus and Timotheus unto the church of the Thessalonians,” 1 Thess. 1:1. 
+> “Paul and Sylvanus and Timotheus unto the church of the Thessalonians,”  
+1 Thess. 1:1. 
 
-> “And the church in thy house,” Phil. 2. 
+> “And the church in thy house,”  
+Phil. 2. 
 
-> “To the angel of the church of the Ephesians,” Rev.  2:1. 
+> “To the angel of the church of the Ephesians,”  
+Rev.  2:1. 
 
-> “Then had the churches rest throughout Judea and Galilee and Samaria, and were edified,” Acts 9:31. 
+> “Then had the churches rest throughout Judea and Galilee and Samaria, and were edified,”  
+Acts 9:31. 
 
-> “And he went through Syria and Cilicia confirming the churches,” Acts 15:41.  
+> “And he went through Syria and Cilicia confirming the churches,”  
+Acts 15:41.  
 
-> “And so were the churches established in the faith, and increased in number daily,” Acts 16:5.
+> “And so were the churches established in the faith, and increased in number daily,”  
+Acts 16:5.
 
 __Argument 4.__  As it is appointed in the church, it necessarily follows that it belongs to the church collectively, and not to members individually.  Acts 20:7, 
-> “And upon the first day of the week, when the disciples came together to break bread,” etc.  1 Cor. 11:17.  
+> “And upon the first day of the week, when the disciples came together to break bread,” etc.  
+1 Cor. 11:17.  
 
 In this connection the church is spoken of as coming together to partake of the Lord’s Supper.  
 
@@ -116,29 +133,34 @@ If this is not the teaching of Jesus in the commission, then I do not know the m
 On the day of Pentecost Peter commanded the people to repent and be baptized.  There can be no doubt that Peter, on this memorable occasion, was laboring under the authority of the commission that I have already quoted, and the first thing he did was to teach, and then require them to be baptized.  He said nothing about the communion to them at that time, and, as he did not, it is very evident he followed the order of the commission, teaching that the gospel requires baptism before the communion.  That is the way he understood and taught the commission.  We might as well reverse the order of teaching and baptizing, so as to have baptism go before teaching, as to reverse the order of baptism and communion and have communion before baptism.  There is not a single instance given in the New Testament, that I have ever seen, where the bread and wine were offered to an un-baptized person.  
 
 With this glaring fact before us, what are we to conclude, only that the apostles taught that baptism was a prerequisite to the Lord's Supper?  We read: 
-> “Then they that gladly received his word were baptized, and the same day there were added unto them about three thousand souls.  And they continued steadfastly in the apostles’ doctrine and fellowship, and in breaking of bread and in prayers,” Acts 2:41,42.  
+> “Then they that gladly received his word were baptized, and the same day there were added unto them about three thousand souls.  And they continued steadfastly in the apostles’ doctrine and fellowship, and in breaking of bread and in prayers,”  
+Acts 2:41,42.  
 
 We learn from this text that they were first taught, and then baptized, and then followed the other things that the Lord had commanded, and among them was the breaking of the bread.  It seems strange that the apostles were with Jesus three years during his ministry, and then, after his resurrection, they would hear him utter the words of the commission and fail to understand it, and in the very introduction of their work make a wrong start and lead so many astray on the question of baptism being required before the communion.
 
 Why so much stress on the arrangement of the commission by the Savior, and then in its fulfillment by the apostles, if persons may be admitted to the communion without being baptized?  It is by baptism that the believer puts on Christ, practically, and I insist that no man that has not put on Christ is entitled to the sacrament of the Lord's Supper.  
 
 While it is evident that believers are the children of God, it is also evident that God's children are required to put Christ on in baptism, and, until they do so, they disobey, and I cannot agree that disobedient children are entitled to the supper.  
-> “For ye are all the children of God by faith in Christ Jesus.  For as many of you as have been baptized into Christ have put on Christ,” Gal. 3:26, 27.  
+> “For ye are all the children of God by faith in Christ Jesus.  For as many of you as have been baptized into Christ have put on Christ,”  
+Gal. 3:26, 27.  
 
 If, as Mr. Campbell and others have taught, none are the children of God until they are baptized, which I deny, then they certainly are not entitled to communion before they are the children of God; but if believers are his children, but have not put on Christ by baptism, then they are not in Christ practically.  What right have they to the communion?  
 
 Whatever is meant in this text by being baptized into Christ, in that sense none are in Him until they are baptized, and, if they are not in Him, they are out of Him, that is all, and so they are not entitled to the Lord's Supper while they are out of Christ practically.  We are, in some way, baptized into Christ, and in that sense we are not in Him without baptism, but we should be before we claim to be entitled to His supper.  It is by baptism and not by communion that we get into Him in the sense of this text.  I take the meaning of the text to be that the believer puts on Christ, practically, by baptism.  If I am correct, then the un-baptized person has not put Him on practically.  If not, he is not entitled to the communion, unless a person is entitled to the communion who is not a practical Christian.
 
-Audience, what do you say?  Is a man entitled to partake of the sacrament of the Lord’s Supper who refuses, or fails, or neglects to put on Christ by baptism?  The plea that he may not have the opportunity to be baptized will not do in this case, for no one has the opportunity to the communion that has no opportunity to be baptized.  Baptism is the first step of the saint in the new life.  “Therefore we are buried with him by baptism into death; that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life,” Rom. 6:4.  
+Audience, what do you say?  Is a man entitled to partake of the sacrament of the Lord’s Supper who refuses, or fails, or neglects to put on Christ by baptism?  The plea that he may not have the opportunity to be baptized will not do in this case, for no one has the opportunity to the communion that has no opportunity to be baptized.  Baptism is the first step of the saint in the new life.  “Therefore we are buried with him by baptism into death; that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life,”  
+Rom. 6:4.  
 
 Is it right to admit persons to the Lord's table before they begin the new life?  Have they any claim upon the church for the communion while they still refuse to walk in newness of life?  It is by the action of baptism that they pledge themselves to renounce sin, and to obey the Lord, and to be his enemy no longer.
 
-> “And now why tarriest thou?  Arise and be baptized, and wash away thy sins, calling on the name of the Lord,” Acts 22:16.  
+> “And now why tarriest thou?  Arise and be baptized, and wash away thy sins, calling on the name of the Lord,”  
+Acts 22:16.  
 
 In some sense we are taught by this text that in the act of baptism sins are washed away.  I know of none, except those who believe in baptismal regeneration, who claim that baptism, itself, literally and physically, washes away sin, but to say the least of it, it is a solemn pledge, on the part of the candidate, to renounce sin, and this he does not, in the sense of this text, only by being baptized.  The text calls it washing away sins.  Sins are not washed away, in the sense of this text, only in baptism; so a person cannot rightly and justly be admitted to the Lord's Supper until his sins are washed away.  Then baptism is required before the communion is admissible.  
 
 To reject baptism is to reject the counsel of God, and the man that rejects the counsel of God rejects Christianity, and that such a man is not worthy of the communion, it seems to me, needs no argument.  
-> “But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him,” Luke 8:30.
+> “But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him,”  
+Luke 8:30.
 
 In conclusion of this part of the subject I charge those who say that baptism is not an essential qualification for the Lord’s table, with the crime of encouraging persons to disobey the gospel and to think they can do as well without baptism as with it.  If they are to be entitled to the communion without baptism, what other privileges may they not enjoy without being baptized?  If they can be admitted to the most sacred and the most important without baptism, then we might get along very well and dispense with baptism entirely.  We have as much authority for repealing the laws and ordinances of Christ as we have for making new ones.  Either is treason against his government.  I think we should be careful.  I am not in favor of communing with those who are willing to set aside the Savior’s laws.
 
@@ -151,49 +173,61 @@ Again, on page 110, century 4, he says,
 > “The institution of catechumens, and this discipline through which they passed, suffered no variation in this century, but continued still upon the ancient footing.”
 
 Mr. Hall, the great advocate for open communion, says, 
-> “The apostles, it is acknowledged, admitted none to the Lord’s Supper but such as were previously baptized.” (Works, vol.  2, p.  213, 214, quoted by Howell, p.  77).
+> “The apostles, it is acknowledged, admitted none to the Lord’s Supper but such as were previously baptized.”  
+Works, vol.  2, p.  213, 214, quoted by Howell, p.  77
 
 Neander's History of the Christian Church, vol. 1, pg. 327, says, 
 > “At this celebration (the Lord's Supper), as may be easily concluded, no one could be present who was not a member of the Christian Church, and incorporated into it by the rite of baptism.”
 
 Abraham Booth says, 
-> “Before the grand Romish apostasy, in the very depths of that apostasy, and since the reformation, both at home and abroad, the general practice has been to receive none but baptized persons to communion at the Lord’s table.” (Booth wrote in the seventeenth century.  Howell, pp. 51,52.)
+> “Before the grand Romish apostasy, in the very depths of that apostasy, and since the reformation, both at home and abroad, the general practice has been to receive none but baptized persons to communion at the Lord’s table.”  
+Booth wrote in the seventeenth century.  Howell, pp. 51,52.
 
 Justin Martyr wrote about A. D. 150, not more than fifty years after the death of John the apostle.  He says, 
-> “This food is called by us the Eucharist, of which it is not lawful for any to partake, but such as believe the things that are taught by us to be true, and have been baptized.” (2nd Apology, pg. 162, Howell, pg. 52.)
+> “This food is called by us the Eucharist, of which it is not lawful for any to partake, but such as believe the things that are taught by us to be true, and have been baptized.”  
+2nd Apology, pg. 162, Howell, pg. 52.
 
 Jerome, who wrote about A. D. 400, says, 
-> “Catechumens cannot communicate at the Lord's table, being un-baptized.” (Howell, pg. 58.)
+> “Catechumens cannot communicate at the Lord's table, being un-baptized.”  
+Howell, pg. 58.
 
 Austin, who wrote about A. D. 500, on the question of administering the Lord’s Supper to infants, says, 
-> “Of which certainly they cannot partake, unless they are baptized.” (Howell, pg. 53.)
+> “Of which certainly they cannot partake, unless they are baptized.”  
+Howell, pg. 53.
 
 Theophylact, in a work published A. D. 1100, remarks, 
-> “No unbaptized person partakes of the Lord's Supper.” (Howell, pg. 53.)
+> “No unbaptized person partakes of the Lord's Supper.”  
+Howell, pg. 53.
 
 Bonaventure, who wrote about A. D. 1200, observes, 
-> “Faith, indeed is necessary to all sacraments, but especially to the reception of baptism, because baptism is the first among the sacraments and the door to the sacraments.” (Howell.) 
+> “Faith, indeed is necessary to all sacraments, but especially to the reception of baptism, because baptism is the first among the sacraments and the door to the sacraments.”  
+Howell.
 
 Spanheim, who flourished about A. D. 1600, says, 
-> “None but baptized persons are admitted to the Lord’s table.” (Howell.)
+> “None but baptized persons are admitted to the Lord’s table.”  
+Howell.
 
 Lord Chancellor King wrote about A. D. 1700.  He says,
-> “Baptism was always precedent to the Lord's Supper, and none were admitted to receive the Eucharist till they were baptized.  This is so obvious to every man that it needs no proof.” (Howell.)
+> “Baptism was always precedent to the Lord's Supper, and none were admitted to receive the Eucharist till they were baptized.  This is so obvious to every man that it needs no proof.”  Howell.
 
 Dr. Wall avers,
-> “No church ever gave the communion to any persons before they were baptized.  Among all the absurdities that were ever held, none ever maintained that any person should partake of the communion before they were baptized.” (History Infant Baptism, part 2, chapter 9, Howell.)
+> “No church ever gave the communion to any persons before they were baptized.  Among all the absurdities that were ever held, none ever maintained that any person should partake of the communion before they were baptized.”  
+History Infant Baptism, part 2, chapter 9, Howell.
 
 Dr. Doddridge says, 
-> “It is certain that Christians in general have always been spoken of as baptized persons.  And it is also certain that, as far as our knowledge of primitive antiquity extends, no unbaptized person received the Lord’s Supper.” (Lectures, page 410, Howell.)
+> “It is certain that Christians in general have always been spoken of as baptized persons.  And it is also certain that, as far as our knowledge of primitive antiquity extends, no unbaptized person received the Lord’s Supper.”  
+Lectures, page 410, Howell.
 
 Dr. Dwight says, 
-> “It is an indispensable qualification for this ordinance that the candidate for communion be a member of the visible church of Christ, in full standing.  By this I intend that he should be a person of piety; that he should have made a public profession of religion, and that he should have been baptized.” (Systematic Theology, Serm. 160, Howell.)
+> “It is an indispensable qualification for this ordinance that the candidate for communion be a member of the visible church of Christ, in full standing.  By this I intend that he should be a person of piety; that he should have made a public profession of religion, and that he should have been baptized.”  
+Systematic Theology, Serm. 160, Howell.
 
 Encyclopedia of Religious Knowledge, page 35, says, 
 > “The general opinion and practice in all ages has been that something more than conversion and Christian character was necessary to this ordinance; that baptism, soundness in faith, and a regular walk of holy obedience, were scriptural and indispensable terms of communion.”
 
 Even Robert Hall, who denied that baptism should be a prerequisite to communion, says, 
-> “It has been inferred, too hastily in my opinion, that we are bound to abstain from their communion—that of un-baptized persons —whatever judgment we may form of their sincerity and piety.  Baptism, it is alleged, is, under all possible circumstances, an indispensable term of communion; and, however highly we may esteem many of our Pedobaptist brethren, yet, as we cannot but deem them un-baptized, we must of necessity consider them as unqualified for an approach to the Lord's table.  It is evident that this reasoning rests entirely on the assumption that baptism is invariably a necessary condition of communion—an opinion which, it is not surprising, the Baptists should have embraced, since it has long passed current in the Christian world and been received by nearly all denominations of Christians.” (Works, vol. 2, p. 212.)
+> “It has been inferred, too hastily in my opinion, that we are bound to abstain from their communion—that of un-baptized persons —whatever judgment we may form of their sincerity and piety.  Baptism, it is alleged, is, under all possible circumstances, an indispensable term of communion; and, however highly we may esteem many of our Pedobaptist brethren, yet, as we cannot but deem them un-baptized, we must of necessity consider them as unqualified for an approach to the Lord's table.  It is evident that this reasoning rests entirely on the assumption that baptism is invariably a necessary condition of communion—an opinion which, it is not surprising, the Baptists should have embraced, since it has long passed current in the Christian world and been received by nearly all denominations of Christians.”  
+Works, vol. 2, p. 212.
 
 I wish to add to this long list of witnesses a Methodist writer.  A. A. Jimeson, in his note on the twenty-five articles, p. 297, says: 
 > “The nature of these two ordinances teaches most clearly that baptism must necessarily precede the Lord’s Supper.”
@@ -203,7 +237,8 @@ But I must notice one argument that has been urged against the doctrine that bap
 If John’s baptism was not Christian, it should be distinguished by some mark, phrase or epithet, so that we might know the two baptisms apart.  Is one baptism styled John’s baptism, and the other Christian baptism, in the New Testament?  No such distinctions are known in the New Testament, and, therefore, I do not feel willing to recognize such a distinction until I have better authority for it.  John does contrast his baptism with one that is different; that is, the baptism of the Holy Ghost, but if afterwards the baptism of Christians was to be different from his baptism, it is singular that he said nothing about it.
 
 Bunyan says, 
-> “The Lord’s Supper, not baptism, is for the church as a church; therefore, as we will maintain the church’s edifying, that must be maintained in it; yea, used oft to show the Lord's death till he come.” (Complete Works, pg. 856.)
+> “The Lord’s Supper, not baptism, is for the church as a church; therefore, as we will maintain the church’s edifying, that must be maintained in it; yea, used oft to show the Lord's death till he come.”  
+Complete Works, pg. 856.
 
 What is a church?  Is it an assembly of un-baptized persons?  Is there any people, who believe in baptism at all, that would recognize anything as a church without baptism?  Then, if the sacrament of the Lord’s Supper is for the church as a church, it must necessarily be for baptized persons, unless the church is made up in part, or in whole, of un-baptized persons.  As it is a church ordinance, therefore it must be for baptized persons.
 
@@ -218,7 +253,8 @@ But it is sometimes said that if we were friendly we would certainly commune wit
 If the church is not to care for and preserve the ordinances that God has given to it, who will do it better?  If it should be said by any that we are not the church, or a church, then, if we are not, we have no right to the ordinances of the church.  If we are, we are under obligation to God to observe the ordinances in His appointed way, and for us to deviate from that way would be treason.
 
 But are there no inconsistencies about open communion?  Mosheim, in speaking of the General Baptists in the seventeenth century, says, 
-> “There is much latitude in their system of religious doctrine, which consists in such vague and general principles, as render their communion accessible to Christians of almost all denominations.  And accordingly they tolerate, in fact, and receive among them persons of every sect, even Socinians and Arians: nor do they reject any from their communion, who profess themselves Christians, and receive the Holy Scriptures as the source of truth and the rule of faith.” (pg. 528.)  
+> “There is much latitude in their system of religious doctrine, which consists in such vague and general principles, as render their communion accessible to Christians of almost all denominations.  And accordingly they tolerate, in fact, and receive among them persons of every sect, even Socinians and Arians: nor do they reject any from their communion, who profess themselves Christians, and receive the Holy Scriptures as the source of truth and the rule of faith.”  
+pg. 528.
 
 Note 4, at the bottom of the same page, says, 
 > “This appears evidently from their confession of faith, which appeared first in the year 1660, was republished by Mr. Whiston in the memoirs of his life, vol. 2, pg. 561, and is drawn up with such latitude that, with the removal and alteration of a few points, it may be adopted by Christians of all denominations.  Mr. Whiston, though an Arian, became a member of this Baptist community, which, as he thought, came nearest to the simplicity of the primitive and apostolic age.  The famous Mr. Emlyn, who was persecuted on account of his Socinian principles, joined himself also to this society, and died in their communion.  It seems, then, that for us to commune with the General Baptists is to also commune with Arians and Socinians.  Indeed, what would we not commune with if we were open communionists?
@@ -227,16 +263,19 @@ The Apostle Paul said,
 > “He that is an heretic after the first and second admonition, reject.” 
 
 But how are we to do that?  Are we to deprive him of all the privileges except the supper?  It would be very inconsistent in us to exclude from our fellowship a man for heresy, and at the same time receive heretics into our communion.  
-> “The doctrine of the Socinians respecting the atonement is that God requires no consideration or condition of pardon, but the repentance of the offender; and that, consequently, the death of Christ was no real sacrifice for sin; and, though, it be so called in scripture, it is merely, in a figurative sense, by way of allusion to the Jewish sin offering, just as our praises and other good works are called sacrifices, because they are something offered up to God.” (Religious Encyclopedia, pg.  1081.)
+> “The doctrine of the Socinians respecting the atonement is that God requires no consideration or condition of pardon, but the repentance of the offender; and that, consequently, the death of Christ was no real sacrifice for sin; and, though, it be so called in scripture, it is merely, in a figurative sense, by way of allusion to the Jewish sin offering, just as our praises and other good works are called sacrifices, because they are something offered up to God.”  
+Religious Encyclopedia, pg.  1081.
 
 Suppose there is an organization of Socinians in the town of Owensville, and we were to attend the sacramental services of the General Baptist church and commune with them, would we not be likely to have to sit at the Lord’s table with a people who deny that the death of Christ was a sacrifice for sin?  We certainly would have no right to request the General Baptists to debar them from their table.  They should have full control of that themselves.  The way for us not to commune with those with whom we would prefer not to affiliate, is for us not to commune with the General Baptists.  We may be ever so willing to commune with our General Baptist brethren, but their liberality to Arians and Socinians would shut us out.  But let us notice the Methodist discipline a moment.
 
 Our Methodist brethren are close communionists, if they live up to their discipline, and they cannot invite me to their communion unless they violate their discipline.  Listen, 
-> “No person shall be admitted to the Lord’s Supper among us who is guilty of any practice for which we would exclude a member from our church.” (Discipline, pg. 37, sec. 42.) 
+> “No person shall be admitted to the Lord’s Supper among us who is guilty of any practice for which we would exclude a member from our church.”  
+Discipline, pg. 37, sec. 42.
 
 Now, if I am guilty of any practice for which they would exclude one of their own members, I am not to be admitted to their communion.  That is our rule, only we do not have it written out.  We would not commune with a man if he is guilty of what we would exclude one of our own members for.  But let us see what the Methodists would exclude their members for, and see whether or not I am guilty of such a practice.  If I am, I am debarred from their table.
 
-> “If a member of our church shall be accused of endeavoring to sow dissension in any of our societies by inveighing against either our doctrines or our discipline, the person so offending shall first be reproved by the preacher in charge, and, if he persists in such pernicious practice, he shall be brought to trial, and, if found guilty, expelled.” (Dis. pg. 136, sec. 341.)  
+> “If a member of our church shall be accused of endeavoring to sow dissension in any of our societies by inveighing against either our doctrines or our discipline, the person so offending shall first be reproved by the preacher in charge, and, if he persists in such pernicious practice, he shall be brought to trial, and, if found guilty, expelled.”  
+Dis. pg. 136, sec. 341.
 
 I speak out against the Methodist doctrine and discipline, and I presume if I was a member of that church, and would preach as I do and oppose infant baptism and sprinkling and pouring as the mode of baptism, general atonement and conditional salvation, they would exclude me.  Would you not, Brother Clippinger?  
 
@@ -262,22 +301,26 @@ Now here is Brother Clippinger, a Methodist minister.  He and I often meet and s
 As we have already observed that baptism is essential to the communion, we now wish to know what baptism is, and, in case we find anything practiced for baptism that is not baptism, we will not admit such to the communion.  As to the mode of baptism, three modes are advocated among Christian people, immersion, sprinkling, and pouring, and, while some admit either of these to be baptism, there are others who cannot conscientiously make the admission.
 
 The Baptists honestly believe immersion to be the only mode, and that, so far as the action of baptism is concerned, there is no baptism without immersion.  This being true, and baptism being a prerequisite to the communion, how can we consistently commune with those who have never been immersed?  If we hold that immersion is essential to baptism, and the whole Pedobaptist world says that sprinkling and pouring are as truly baptism as immersion is, do we not differ?  If we differ so materially as that, can we commune together?  
-> “Can two walk together except they be agreed?” Amos 3:3.  
+> “Can two walk together except they be agreed?”   
+Amos 3:3.  
 
 __1st.__  I argue that immersion is baptism, because the whole Christian world says it is.  There are none who deny immersion being baptism, and gospel baptism at that.  While many claim that sprinkling and pouring are baptism, yet they say immersion is baptism.  So, for our doctrine that our baptism is gospel baptism, we have the testimony of all.  
 
 __2nd.__ I argue that immersion is the only scriptural mode of baptism, because everything that is said in the New Testament pertaining to mode favors immersion.  But as it is not my intention to argue, at any great length, the mode of baptism, I will briefly call to mind a few things.  1st. 
-> “And were baptized of Him in Jordan, confessing their sins,” Matt. 3:6.  
+> “And were baptized of Him in Jordan, confessing their sins,”  
+Matt. 3:6.  
 
 It is not necessary to go into the river to sprinkle or pour, and it is not always done.  It is necessary to go into the water to immerse, and it is always done.  I presume that John had business in the water, or they would not have gone into it.  If they did have business there, it was to immerse, and not to sprinkle or pour.  2nd. 
-> “And Jesus, when he was baptized, went straightway up out of the water,” Matt. 3:16.  
+> “And Jesus, when he was baptized, went straightway up out of the water,”  
+Matt. 3:16.  
 
 He evidently went into the water before he could have gone out of it.  When you were sprinkled, did you go up out of the water?  If you did not, you did not do as the Savior did.  
 
 What do you suppose He went into the water for, if it was not necessary?  
 
 Is it necessary for a person to go up out of the water after being sprinkled?  If it is, then, of course, when a person is sprinkled he will certainly, in every case, go up out of the water.  If any one is sprinkled, and does not go up out of the water afterwards, then, in case of sprinkling, it is not necessary to go up out of the water; but it is necessary in case of immersion, and in all cases of immersion the person goes up out of the water.  3rd. 
-> “And John, also, was baptizing in Enon, near to Salim, because there was much water there.” John 3:23.  
+> “And John, also, was baptizing in Enon, near to Salim, because there was much water there.”  
+John 3:23.  
 
 Is much water necessary to sprinkle or pour with?  It is not necessary to have much water to sprinkle or pour with.  If it was, you would always see our Pedobaptist friends going to some place where there was much water.  Do we always see that?  Do they not often baptize, as they call it, with very little water?  If a little water will do, much is not necessary.  Then why did John select a place where there was much water?  It is evident that for his purpose much water was necessary, and the text says he baptized there because there was much water there.  It is necessary to have much water to immerse, and therefore he must have gone there to immerse.  
 
@@ -291,7 +334,8 @@ This is always necessary in immersion, but it is never necessary in sprinkling o
 > “Therefore we are buried with him by baptism into death,” Rom. 6:4.  
 
 A burial is absolutely essential to immersion, while such a thing never does take place in sprinkling or pouring.  7th. 
-> “Buried with him by baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead,” Col. 2: 12.  
+> “Buried with him by baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead,”  
+Col. 2: 12.  
 
 Now put all these together and you have a complete immersion - no more and no less.  What is ever said on the subject of baptism that reminds us of sprinkling or pouring?  Simply nothing.
 
@@ -301,7 +345,8 @@ Now put all these together and you have a complete immersion - no more and no le
 > “The exhortations of this respectable messenger were not without effect; and those who, moved by his solemn admonitions, had formed the resolution of correcting their evil dispositions and amending their lives, were initiated into the kingdom of the Redeemer by the ceremony of immersion or baptism.  Christ, himself, before he began his ministry, desired to be solemnly baptized in the waters of Jordan, that he might not, in any point, neglect to answer the demands of the Jewish law.” (London edition, pg. 16.)
 
 It should be remembered that the learned historian that we have quoted was not a Baptist, but that he was a Lutheran, and, notwithstanding the practice of the Lutherans relative to baptism, our historian calls the sacrament of baptism the ceremony of immersion.  But we wish to hear him again.  He says, 
-> “The sacrament of baptism was administered in this (first) century, without the public assemblies, in places appointed and prepared for that purpose, and was performed by immersion of the whole body in the baptismal font.” (pg.  36.)
+> “The sacrament of baptism was administered in this (first) century, without the public assemblies, in places appointed and prepared for that purpose, and was performed by immersion of the whole body in the baptismal font.”  
+pg.  36.
 
 It seems very clear that if baptism was performed by immersion in the first century, and that John immersed, that immersion certainly was the apostolic mode.  Such a thing as sprinkling had never been mentioned in history yet.  But we wish to see what he says about it in the second century.  
 > “The sacrament of baptism was administered publicly twice a year, at the festivals of Easter and Pentecost, or Whitsuntide, either by the bishop or the presbyters, in consequence of his authorization and appointment.  The persons that were to be baptized, after they had repeated the Creed, confessed and renounced their sins, and particularly the devil and his pompous allurements, were immersed under water, and received into Christ's kingdom by a solemn invocation of the Father, Son and Holy Ghost, according to the express command of our blessed Lord.” (pg. 58.)
@@ -309,7 +354,8 @@ It seems very clear that if baptism was performed by immersion in the first cent
 You will please bear in mind that this is the way our historian tells us baptism was administered in the second century.  But I also have another historian that I wish to introduce, who, by the way, is not a Baptist.  In fact, while we have plenty of Baptist historians, it is not our intention, in these lectures, to introduce any of them on these questions.  We intend to make our opponents our witnesses.  
 
 Neander, in his history of the Christian religion and church, says, 
-> “In respect to the form of baptism, it was in conformity with the original institution and the original import of the symbol, performed by immersion, as a sign of entire baptism of the Holy Spirit, of being entirely penetrated by the same.” (Vol. 1, pg. 310.)
+> “In respect to the form of baptism, it was in conformity with the original institution and the original import of the symbol, performed by immersion, as a sign of entire baptism of the Holy Spirit, of being entirely penetrated by the same.”  
+Vol. 1, pg. 310.
 
 The historian says it was performed by immersion in conformity with the original institution and original import of the symbol.  It occurs to me that whatever the original import of the symbol of baptism required is still required, and if immersion was the act by which the original institution and original import of the symbol is represented, we should continue to immerse so long as we wish to represent, by the action of baptism, its original meaning.  
 
@@ -357,58 +403,70 @@ He said the pronoun them had for its antecedent, nations; that there were no suc
 I replied, that from his definition of nations, he had gotten me into trouble.  If there are no such things as nations without infants, I want him to explain the text: “The wicked shall be turned into hell, with all the nations that forget God,” and keep infants out of hell.  He said that meant the wicked of all nations.  I told him the other meant the taught of all nations.  So none of them have yet showed the text that mentions water baptism and infants.
 
 __1st.__ 
-> “He that believeth and is baptized shall be saved.” Mark 16:16.  
+> “He that believeth and is baptized shall be saved.”  
+Mark 16:16.  
 
 __2nd.__ 
-> “Go ye, therefore, and teach all nations, baptizing them,” etc. Matt. 28:10.  
+> “Go ye, therefore, and teach all nations, baptizing them,” etc.  
+Matt. 28:10.  
 
 From this text we learn that teaching is before baptism.  
 
 __3rd.__
-> “Then they that gladly received his word were baptized.” Acts 2:41.  
+> “Then they that gladly received his word were baptized.”  
+Acts 2:41.  
 
 __4th.__
-> “And they were baptized of him in Jordan, confessing their sins.” Matt. 3:6.  
+> “And they were baptized of him in Jordan, confessing their sins.”  
+Matt. 3:6.  
 
 Infants do not confess their sins.  
 
 __5th.__
-> “But when they believed Philip preaching the Kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.” Acts 8:12.  
+> “But when they believed Philip preaching the Kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.”  4Acts 8:12.  
 
 If infants were also baptized, the text should have read: Men, women and their children.  It is about as evident, that among the men and women that were baptized, that some of them had children—that is infants, as that the jailer had, or that Lydia had, or Stephanus, or any other household.  But if any of them did have infants with them, it is evident that they did not have them baptized.  6th. There is not a text in the New Testament where water baptism and infants are both mentioned.
 
 __7th.__ I argue against infant baptism, on the ground that it was not practiced by the Primitive Christians.  Let us read: 
 > “Baptism was administered at first only to adults, as men were accustomed to conceive baptism and faith as strictly connected.  We have all reason for not deriving infant 
-baptism from apostolic institution, and the recognition of it which followed somewhat later, as an apostolical tradition serves to confirm this hypothesis.” Neander, vol. 1, pg. 311.
+baptism from apostolic institution, and the recognition of it which followed somewhat later, as an apostolical tradition serves to confirm this hypothesis.”  
+Neander, vol. 1, pg. 311.
 
 Again: 
-> “Origen, whose system of infant baptism could readily find its place, though not in the same connection as in the system of the North African Church, declares it to be an apostolic tradition, an expression, by the way, which cannot be regarded as of much weight in this age, when the inclination was so strong to trace every institution which was considered of special importance to the apostles, and where so many walls of separation, hindering the freedom of prospect, had already arisen between this and the apostolic age.  Also in the Persian Church, infant baptism was, in the course of the third century, so generally recognized that the sect founder Mani thought he could draw an argument from it in favor of a doctrine which seemed to him necessarily pre-supposed by this application of the rite.” Neander, vol. 1, pg. 314.  
+> “Origen, whose system of infant baptism could readily find its place, though not in the same connection as in the system of the North African Church, declares it to be an apostolic tradition, an expression, by the way, which cannot be regarded as of much weight in this age, when the inclination was so strong to trace every institution which was considered of special importance to the apostles, and where so many walls of separation, hindering the freedom of prospect, had already arisen between this and the apostolic age.  Also in the Persian Church, infant baptism was, in the course of the third century, so generally recognized that the sect founder Mani thought he could draw an argument from it in favor of a doctrine which seemed to him necessarily pre-supposed by this application of the rite.”  
+Neander, vol. 1, pg. 314.  
 
 This historian does not admit the assertion of Origen, that infant baptism is apostolic, is of much force.
 
 But let us hear him once more: 
-> “Iraeneus is the first church teacher in whom we find any allusion to infant baptism.” Neander, vol. 1, pg. 311.  
+> “Iraeneus is the first church teacher in whom we find any allusion to infant baptism.”  
+Neander, vol. 1, pg. 311.  
 
 If Iraeneus was the first church teacher that taught infant baptism, it was not taught until the latter part of the second century.  According to Robinson, Pedobaptism originated with the Montanists, if we are allowed to rely on Brown's Religious Encyclopedia (pg. 386), and we have never heard it questioned as being good authority.
 
 Again: 
-> “According to the North African scheme of doctrine, which taught all men were from their birth, in consequence of guilt and sin transmitted from Adam, subjected to the same condemnation; that they bore within them the principles of all sin, deliverance from original sin and inherited guilt would be made particularly prominent in the case of infant baptism, as in the case of the baptism of adults; and this was proved by the ancient formula of baptism, which, however, originated in a period when infant baptism had as yet no existence, and had been afterwards supplied without alteration to children, because men shrank from undertaking to introduce any change in the consecrated formulas established by apostolic authority, though Christians were by no means agreed as to the sense in which they applied this formula.” Neander, vol. 2, pg. 665.
+> “According to the North African scheme of doctrine, which taught all men were from their birth, in consequence of guilt and sin transmitted from Adam, subjected to the same condemnation; that they bore within them the principles of all sin, deliverance from original sin and inherited guilt would be made particularly prominent in the case of infant baptism, as in the case of the baptism of adults; and this was proved by the ancient formula of baptism, which, however, originated in a period when infant baptism had as yet no existence, and had been afterwards supplied without alteration to children, because men shrank from undertaking to introduce any change in the consecrated formulas established by apostolic authority, though Christians were by no means agreed as to the sense in which they applied this formula.”  
+Neander, vol. 2, pg. 665.
 
 From this quotation the doctrine of baptismal regeneration is older than the practice of infant baptism.  But another witness says: 
-> “There were twice a year, stated times when baptism was administered to such as after a long course of trial and preparation, offered themselves as candidates for the profession of Christianity.” Mosheim, p. 78.  
+> “There were twice a year, stated times when baptism was administered to such as after a long course of trial and preparation, offered themselves as candidates for the profession of Christianity.”  
+Mosheim, p. 78.  
 
 This was in the third century, and it is very clear that infant baptism was not taught in the baptism mentioned here.
 
-It has been argued that if infants are to be baptized, that they are also members of the church, and if they are members of the church, I cannot see why one member of the church does not have as much right to the communion as another.  But let us see if they are considered as members of the church by our Pedobaptist brethren.  “The visible church consists of those who hold to the fundamental doctrines in Christianity in respect to matters of faith and morals, and have entered into formal covenant with God and some organized body of Christians for the maintenance of religious worship.  The children of such are included in the covenant relations of their parents, and are properly under the special care of the church.” Cumberland Presbyterian Confession of Faith, pg. 52, Sec. 94.
+It has been argued that if infants are to be baptized, that they are also members of the church, and if they are members of the church, I cannot see why one member of the church does not have as much right to the communion as another.  But let us see if they are considered as members of the church by our Pedobaptist brethren.  “The visible church consists of those who hold to the fundamental doctrines in Christianity in respect to matters of faith and morals, and have entered into formal covenant with God and some organized body of Christians for the maintenance of religious worship.  The children of such are included in the covenant relations of their parents, and are properly under the special care of the church.”  
+Cumberland Presbyterian Confession of Faith, pg. 52, Sec. 94.
 
 It is a plain case that one branch of Pedobaptists recognize their children as church members.  But let us hear another one of them speak.  
-> “Does not our Savior explicitly say, in regard to young children, ‘Of such is the kingdom of heaven?’  The kingdom of heaven must mean either the kingdom of glory, the work of grace in the heart, or the church of Christ on earth.  Now in whatever sense it is used in the text, it must include the idea of church membership.  Is a young child fit for the kingdom of glory?  Then why not for the kingdom of grace?  If fit for the church triumphant, why not for the church on earth?  And was not the promise of God given to Christian parents, and to their children, and to ‘all that are afar off?’  If so, and there can be no reasonable doubt of it, then are infants entitled to the initiatory rite which will formally admit them into the visible church of Christ, and to debar them that privilege, is not only unwise, but unjust to the children, whom God has given us.” History, M. E. Church, pg. 174.
+> “Does not our Savior explicitly say, in regard to young children, ‘Of such is the kingdom of heaven?’  The kingdom of heaven must mean either the kingdom of glory, the work of grace in the heart, or the church of Christ on earth.  Now in whatever sense it is used in the text, it must include the idea of church membership.  Is a young child fit for the kingdom of glory?  Then why not for the kingdom of grace?  If fit for the church triumphant, why not for the church on earth?  And was not the promise of God given to Christian parents, and to their children, and to ‘all that are afar off?’  If so, and there can be no reasonable doubt of it, then are infants entitled to the initiatory rite which will formally admit them into the visible church of Christ, and to debar them that privilege, is not only unwise, but unjust to the children, whom God has given us.”  
+History, M. E. Church, pg. 174.
 
 According to this Methodist writer, the children of their churches are members of their churches.  But let us see further: 
 > “We regard all children who have been baptized, as placed in visible covenant relation to God, and under the special care and supervision of the church.” Discipline, pg.  41, sec. 54.
 
 But we wish to give one more witness to this point: 
-> “These ‘partake of the root and fatness of the olive tree,’ and of course they have the right of placing their infant children in a covenant relation with God, as well as with the believing Jews, or the natural branches that have been cut off.  But it is expressly said that children are members of the visible church, in Mark 10:14, “For of such is the kingdom of heaven.” Jimeson, on the 25 Articles, pg. 278.
+> “These ‘partake of the root and fatness of the olive tree,’ and of course they have the right of placing their infant children in a covenant relation with God, as well as with the believing Jews, or the natural branches that have been cut off.  But it is expressly said that children are members of the visible church, in Mark 10:14, “For of such is the kingdom of heaven.”  
+Jimeson, on the 25 Articles, pg. 278.
 
 We have now shown that Methodists and Presbyterians recognize their children as members of their churches, and we wish to show you what a predicament good men sometimes get themselves into by saying too much.  We will now read to you from the General Baptist Messenger, of March 13, 1886: 
 > “We will be much obliged to any individual who will point us to the scriptural authority which says the members of one Christian church are forbidden to take communion with those of another; or that will show us one, thus saith the Lord, that you must be baptized before you show forth the Lord’s death in sacred communion.”
@@ -421,7 +479,8 @@ I fancy I see a General Baptist minister, at his own communion, officiating, and
 
 But we have not come to the worst of it yet.  Let us read more.
 
-> “As unregenerate persons are not excluded from baptism and hearing the word of God preached, neither should they be from partaking of the sacrament, for one and all of these are ordained means of grace, whereby may be edified and comforted in the Christian life.” (Jimeson, pg. 298.)
+> “As unregenerate persons are not excluded from baptism and hearing the word of God preached, neither should they be from partaking of the sacrament, for one and all of these are ordained means of grace, whereby may be edified and comforted in the Christian life.”  
+Jimeson, pg. 298.
 
 The people he speaks of here are seekers, or, as he calls them, penitent believers, who have not obtained a hope yet.  He calls them unregenerate, and says they should be admitted to baptism and the supper.  As a qualification for membership, we ask that the applicant already has a hope before he comes into the church, but, if we commune with the Methodists, we are liable to have to commune with persons that we would not receive into our church if they are to come and offer themselves.  That is one reason we cannot commune with the Methodists.  How will the General Baptists get along with that?  Hence, we cannot commune with the Pedobaptists, because their terms of membership and ours differ.
 
@@ -471,16 +530,19 @@ Bring our little ones to Thee.
 
 > “Gregory Nazianzen, who died in A. D. 389, testified in his discourse on baptism: ‘That infants are to be baptized.’ In the fifth council of Carthage, held A.  D.  401, it is declared in canon 72 that children ought to be baptized, when there is no proof or testimony that they have been already baptized.’ And Saint Augustine, who flourished A.  D.  410, says: ‘Infant baptism the whole world practices; it was not instituted by councils, but was ever in use.’”
 
-> “Thus we see that certainly four hundred years after Christ there was a universal consent that infant baptism should be practiced.  True, Tertullian advises the delay of infant baptism, but this was because of his peculiar notion of baptismal regeneration.  And there was one Gregory who practiced such delay in the baptism of his own children; but there was no society of men nor church that entertained any doubt as to the propriety of infant baptism.” Jimeson’s notes on the 25 articles, pp.  180-182.  
+> “Thus we see that certainly four hundred years after Christ there was a universal consent that infant baptism should be practiced.  True, Tertullian advises the delay of infant baptism, but this was because of his peculiar notion of baptismal regeneration.  And there was one Gregory who practiced such delay in the baptism of his own children; but there was no society of men nor church that entertained any doubt as to the propriety of infant baptism.”  
+Jimeson’s notes on the 25 articles, pp.  180-182.  
 
 Now if the witnesses quoted by this writer do not establish the apostolic authority for infant baptism, then they cannot prove it at all.  All Pedobaptist authors prove infant baptism by the early Christian fathers, as this one has done, and argue that, if the apostles had not practiced it, it would not have been so universally practiced so soon afterwards.  
 
 But to show you that this is their method of proving it, I wish to quote another one or two.  Listen: 
-> “‘Testimony of the early Christian fathers.’ We allude not to their testimony for the purpose of proving a point of doctrine, but for the purpose of showing what was the practice of the early Christians in regard to infant baptism, and we consider this testimony valuable, so far only as it proves that infant baptism was the practice of the Christian church from the time of the apostles, and, if so, it is morally impossible that it should not have been practiced during the time of the apostles.  ‘Tertullian, born A. D. 150 - but a few years after the death of the apostle John - speaks of infant baptism as being the practice of the church.  Justin Martyr, born near the close of the first century, speaks of those who were members of the church, sixty years old, who were made disciples to Christ in their infancy.  Iraeneus, Origen, Cyprian, and others, in their writings, all prove the practice of infant baptism in the earliest age of the church; and can it be supposed that a practice should become so general in the course of a single century after the apostles?  If so, it was something entirely new and unscriptural.  The supposition is perfectly unreasonable.  From these and other considerations it appears that the ‘baptism of young children ought to be retained in the church,’ according to the article.” - History M. E. Church, by Douglas Gorrie, ppg. 175,176.
+> “‘Testimony of the early Christian fathers.’ We allude not to their testimony for the purpose of proving a point of doctrine, but for the purpose of showing what was the practice of the early Christians in regard to infant baptism, and we consider this testimony valuable, so far only as it proves that infant baptism was the practice of the Christian church from the time of the apostles, and, if so, it is morally impossible that it should not have been practiced during the time of the apostles.  ‘Tertullian, born A. D. 150 - but a few years after the death of the apostle John - speaks of infant baptism as being the practice of the church.  Justin Martyr, born near the close of the first century, speaks of those who were members of the church, sixty years old, who were made disciples to Christ in their infancy.  Iraeneus, Origen, Cyprian, and others, in their writings, all prove the practice of infant baptism in the earliest age of the church; and can it be supposed that a practice should become so general in the course of a single century after the apostles?  If so, it was something entirely new and unscriptural.  The supposition is perfectly unreasonable.  From these and other considerations it appears that the ‘baptism of young children ought to be retained in the church,’ according to the article.”  
+History M. E. Church, by Douglas Gorrie, ppg. 175,176.
 
 You see how satisfactorily he convinces himself that infant baptism was the practice of the apostles, by quoting, not the apostles, but the early Christian fathers.  But, to show you that they all prove the practice in the same manner, I will give you one more witness.  Listen to Mr. Wesley:
 
-> “What I apprehend very much strengthens the truth of infant baptism, that it is of a divine original, is this: About one hundred and fifty years after the death of Saint John the Apostle, there was an assembly of sixty-bishops, who spoke of infant baptism as a known, established and uncontested practice.  One Fidus questioned whether infants were to be baptized so soon as two or three days after their birth, and whether it would not be better to defer their baptism till they were eight days old, as was observed in circumcision, which scruples he proposed to this assembly, and in which he desired their resolution, which they sent in a letter to him, part of which I shall transcribe.  ‘Cyprian, and the rest of the bishops who were present at the council, sixty-six in number, to Fidus, our brother, greeting: We read your letter, most dear brother, but as to the case of infants, whereas you judge that they must not be baptized within two or three days after they are born, and that the rule of circumcision is to be observed, so that none should be baptized and sanctified before the eighth day after he is born, we were all in our assembly of the contrary opinion.  We judge that no person is to be hindered from obtaining the grace of God by the law that is now appointed, and that the spiritual circumcision ought not to be restrained by the circumcision that was according to the flesh; but that all are to be admitted to the grace of Christ, since Peter, speaking of the acts of the apostles, says: ‘The Lord has shown me that no person is to be called common or unclean.’ This, therefore, dear brother, was our opinion in the assembly: that it is not for us to hinder any person from baptism and the grace of God, who is merciful and benign, and affectionate to all; which rule, as it holds for all, so we think it is more especially to be observed in reference to infants newly born, to whom our help and the divine mercy is rather to be granted, because by their cries and tears at their first entrance into the world they do imitate nothing so much as that they implore compassion.’” - Doctrinal Tracts, ppg.  279,280.  
+> “What I apprehend very much strengthens the truth of infant baptism, that it is of a divine original, is this: About one hundred and fifty years after the death of Saint John the Apostle, there was an assembly of sixty-bishops, who spoke of infant baptism as a known, established and uncontested practice.  One Fidus questioned whether infants were to be baptized so soon as two or three days after their birth, and whether it would not be better to defer their baptism till they were eight days old, as was observed in circumcision, which scruples he proposed to this assembly, and in which he desired their resolution, which they sent in a letter to him, part of which I shall transcribe.  ‘Cyprian, and the rest of the bishops who were present at the council, sixty-six in number, to Fidus, our brother, greeting: We read your letter, most dear brother, but as to the case of infants, whereas you judge that they must not be baptized within two or three days after they are born, and that the rule of circumcision is to be observed, so that none should be baptized and sanctified before the eighth day after he is born, we were all in our assembly of the contrary opinion.  We judge that no person is to be hindered from obtaining the grace of God by the law that is now appointed, and that the spiritual circumcision ought not to be restrained by the circumcision that was according to the flesh; but that all are to be admitted to the grace of Christ, since Peter, speaking of the acts of the apostles, says: ‘The Lord has shown me that no person is to be called common or unclean.’ This, therefore, dear brother, was our opinion in the assembly: that it is not for us to hinder any person from baptism and the grace of God, who is merciful and benign, and affectionate to all; which rule, as it holds for all, so we think it is more especially to be observed in reference to infants newly born, to whom our help and the divine mercy is rather to be granted, because by their cries and tears at their first entrance into the world they do imitate nothing so much as that they implore compassion.’”  
+-Doctrinal Tracts, ppg.  279,280.  
 
 I have now given you three distinguished authors who advocate infant baptism, and by this time I presume you are able to see the sort of evidence they rely on for the proof of their position, that infant baptism was practiced by the apostles.  All of them make the same point, by the same course of reasoning, and from the same early Christian fathers.  I have taken the pains to quote all of them, so you can see how infant baptism is sustained by them.  
 
@@ -490,7 +552,8 @@ Mr. Campbell, in his Christianity Restored, quotes the very same early Christian
 
 If those witnesses do not prove that baptism is essential to salvation, neither do they prove infant baptism, and if they do prove baptismal regeneration, as Mr. Campbell says they do, then they also prove infant baptism.  Mr. Campbell says Pedobaptists are wrong on infant baptism, and they say he is wrong on his design of baptism, and I say you are both wrong, for if one is wrong so is the other.  They both go together, and were always understood so until recently; let us see what Mr. Wesley says baptism is for:
 
-> “As to the grounds of it: If infants are guilty of original sin, then they are proper subjects of baptism, seeing, in the ordinary way, they cannot be saved unless this be washed away by baptism.  It has been already proved that this original stain cleaves to every child of man, and that hereby they are children of wrath and liable to eternal damnation.  It is true the second Adam has found a remedy for the disease which came upon all by the offense of the first.  But the benefit of this is to be received through the means which he hath appointed; through baptism in particular, which is the ordinary means he hath appointed for that purpose; and to which he hath tied us, though he may not have tied himself.  Indeed, where it cannot be had, the case is different, but extraordinary cases do not make void a standing rule.  This, therefore, is our first ground.  Infants need to be washed from original sin, therefore they are proper subjects of baptism.” - Doctrinal Tracts, pg. 251.
+> “As to the grounds of it: If infants are guilty of original sin, then they are proper subjects of baptism, seeing, in the ordinary way, they cannot be saved unless this be washed away by baptism.  It has been already proved that this original stain cleaves to every child of man, and that hereby they are children of wrath and liable to eternal damnation.  It is true the second Adam has found a remedy for the disease which came upon all by the offense of the first.  But the benefit of this is to be received through the means which he hath appointed; through baptism in particular, which is the ordinary means he hath appointed for that purpose; and to which he hath tied us, though he may not have tied himself.  Indeed, where it cannot be had, the case is different, but extraordinary cases do not make void a standing rule.  This, therefore, is our first ground.  Infants need to be washed from original sin, therefore they are proper subjects of baptism.”  
+-Doctrinal Tracts, pg. 251.
 
 This was the original design of infant baptism, and the doctrine of baptismal regeneration is older than the practice of infant baptism.  The North African churches first began to teach that baptism is essential to salvation, and soon after that infant baptism began to be practiced.  But our Pedobaptist brethren now say they do not believe that baptism is essential to the salvation of infants.  
 
@@ -500,15 +563,18 @@ I find many such cases in my travels over the country,
 and I set it down, on that ground, that infant baptism is an evil.  It is not necessary to their salvation, so it does them no good, and yet it deprives them the liberty of their own conscience when they become adults.  But let us hear what Mr. Wesley says of the baptism of adults.  Suppose a stranger would come into this country and begin to preach, and you did not know what denomination he belonged to and he would say, “By baptism we, who were by nature the children of wrath, are made the children of God.” What would you call him?  Do you not think he would be branded as a Campbellite?  I will say to you this doctrine was taught long before Mr. Campbell was born.  He was not the originator of that doctrine; it is too old for that.  
 
 It was Mr. Wesley that said, 
-> “By baptism we, who were by nature the children of wrath, are made the children of God.  And this regeneration which our (Episcopal) church, in so many places ascribes to baptism, is more than barely being admitted into the church, though commonly connected therewith, being grafted into the body of Christ’s church, we are made the children of God by adoption and grace.  This is grounded on the plain words of our Lord, “Except a man be born again of water and of the spirit, he cannot enter into the kingdom of God.” John 3:5.  
+> “By baptism we, who were by nature the children of wrath, are made the children of God.  And this regeneration which our (Episcopal) church, in so many places ascribes to baptism, is more than barely being admitted into the church, though commonly connected therewith, being grafted into the body of Christ’s church, we are made the children of God by adoption and grace.  This is grounded on the plain words of our Lord, “Except a man be born again of water and of the spirit, he cannot enter into the kingdom of God.”  
+John 3:5.  
 
-> By water then as a means, the water of baptism, we are regenerated or born again, whence it is also called by the apostle, ‘the washing of regeneration.’ Our church, therefore, ascribes no greater virtue to baptism than Christ himself has done.  Nor does she ascribe it to the outward washing, but to the inward grace, which, added thereto, makes it a sacrament.  Herein a principle of grace is infused, which will not be wholly taken away, unless we quench the Holy Spirit of God by long continued wickedness.  In consequence of our being made children of God, we are heirs of the kingdom of heaven.  If children, as the apostle observes, then heirs, heirs of God and joint heirs with Christ.  Herein we receive a title to, and an earnest of, a kingdom which cannot be moved.  Baptism doth now save us, if we live answerable thereto, if we repent, believe and obey the gospel, supposing this, as it admits us into the church here, so into glory hereafter.” Doctrinal Tracts, ppg.  248, 249.
+> By water then as a means, the water of baptism, we are regenerated or born again, whence it is also called by the apostle, ‘the washing of regeneration.’ Our church, therefore, ascribes no greater virtue to baptism than Christ himself has done.  Nor does she ascribe it to the outward washing, but to the inward grace, which, added thereto, makes it a sacrament.  Herein a principle of grace is infused, which will not be wholly taken away, unless we quench the Holy Spirit of God by long continued wickedness.  In consequence of our being made children of God, we are heirs of the kingdom of heaven.  If children, as the apostle observes, then heirs, heirs of God and joint heirs with Christ.  Herein we receive a title to, and an earnest of, a kingdom which cannot be moved.  Baptism doth now save us, if we live answerable thereto, if we repent, believe and obey the gospel, supposing this, as it admits us into the church here, so into glory hereafter.”  
+Doctrinal Tracts, ppg.  248, 249.
 
 While this book was published by order of the General Conference, it is due to the Methodists that I should state that I see a footnote here exonerating them from the charge of endorsing Mr. Wesley in the foregoing quotation.  It reads as follows: “That Mr. Wesley, as a clergyman of the Church of England, was originally a high churchman, in the fullest sense, is well known.  When he wrote this treatise in the year 1756 he seems to have used some expressions, in relation to the doctrine of baptismal regeneration, which we, at this day, should not prefer.  Some such, in the judgment of the reader, may be found under this second head.  This last sentence, however, contains a guarded corrective.  It explains also the sense in which we believe Mr. Wesley intended much of what goes before to be understood.” 
 
 I leave you to judge, from what I have now read from Mr. Wesley and others, what they understood baptism to be for.  It is a plain case that they understood baptism to be essential to salvation, and that this was their grounds for infant baptism.  I will give you one more witness on this subject.  
 
-> “The Council of Carthage, A.  D.  418, finally condemned, in its second canon, the doctrine concerning such an intermediate state for children, that none could enter into the kingdom of heaven without baptism; that unbaptized infants would be exempt from punishment on the ground that nothing could be conceived as existing between the Kingdom of God and perdition.  But, then, too, according to the doctrine of this council, the eternal perdition of all unbaptized infants was expressly affirmed, a consistency of error revolting to the natural sentiments of humanity.” - Neander, vol. 2, pg. 669.
+> “The Council of Carthage, A.  D.  418, finally condemned, in its second canon, the doctrine concerning such an intermediate state for children, that none could enter into the kingdom of heaven without baptism; that unbaptized infants would be exempt from punishment on the ground that nothing could be conceived as existing between the Kingdom of God and perdition.  But, then, too, according to the doctrine of this council, the eternal perdition of all unbaptized infants was expressly affirmed, a consistency of error revolting to the natural sentiments of humanity.”  
+Neander, vol. 2, pg. 669.
 
 We now have proved that the design of baptism, as essential to eternal salvation, has been advocated by Pedobaptists - not only in the case of adults, but infants as well; and, while our Pedobaptist brethren say they do not endorse that doctrine now, we say they cannot give an intelligent reason for baptizing infants.  Mr. Campbell and his brethren still teach the same design of baptism, but deny the doctrine of infant baptism.  I claim that he has the same proof for his design of baptism that Pedobaptists have for infant baptism, for he proves it by the very same witnesses.  I repeat, that if that is the design of baptism, then I and my brethren have not the right baptism, and, if we have, then they who baptize in order to be born of God have not, even if they have been immersed on a public profession of faith.  
 
@@ -516,15 +582,18 @@ To have a gospel baptism we must be baptized for the same purpose for which the 
 
 Now, as we have seen that baptism is a prerequisite to the communion, and that the mode of baptism is immersion, we claim that all unimmersed people are unbaptized, and, therefore, we cannot commune with them.  We have also seen that no person is a gospel subject of baptism but adult believers, so if persons have been even immersed in their infancy, we do not regard it as gospel baptism, and therefore we could not commune with them.  We have also seen that there are more intentions than one for which persons are baptized, and we hold that the design of baptism has to do with the validity of baptism.  
 
-But there is one thing more essential to the validity of baptism, and that I wish to notice next.  It is the administrator.  Who has a right to administer the ordinance of baptism?  In answer to this question I will call on a good Methodist brother, simply because I have him before me, and he gives the answer just to suit me.  He says: “The sacrament of baptism and the sacrament of the Lord’s Supper are duly administered, not by any and every person choosing to administer the same, but by those who are called by God and His church to the sacred work of the ministry.” - History M. E. Church, pg. 164.  
+But there is one thing more essential to the validity of baptism, and that I wish to notice next.  It is the administrator.  Who has a right to administer the ordinance of baptism?  In answer to this question I will call on a good Methodist brother, simply because I have him before me, and he gives the answer just to suit me.  He says: “The sacrament of baptism and the sacrament of the Lord’s Supper are duly administered, not by any and every person choosing to administer the same, but by those who are called by God and His church to the sacred work of the ministry.”  
+-History M. E. Church, pg. 164.  
 
 I presume this to be the position of all churches in this age of the world, and it is just what we Baptists claim, that baptism is to be administered by those who are called of God, and ordained by the church to perform the functions of a gospel minister.  To this point let us pay some respect for a few moments.  I wish, first, to notice the General Baptists on their authority to baptize.  I hold in my hand a book, entitled General Baptist History, by D. B. Montgomery, of Owensville, Indiana, and I presume you all know him.  I do not, but I presume this book is good General Baptist authority.  Let us read: 
 
-> “They evidently fail to present the object of Crosby in making this statement.  Thomas Wall had charged John Smith with having baptized himself, and that he afterwards baptized Mr. John Spillsbury, the first minister of the Particular Baptist Church, and that he (Spillsbury) transmitted this same baptism to the English Baptists by succession of baptism.  This Crosby was endeavoring to show was false, and that the English Baptists did not receive their baptism by succession from any minister, either General or Particular, from John Smith or John Spillsbury.  That while most or all of John Spillsbury's church had received baptism from a church in the Netherlands, through Mr. Richard Blount, the greatest number and the more judicious English Baptists had received their baptism just as John Smith had received his, received it through an unbaptized person.” (ppg. 45,46.)
+> “They evidently fail to present the object of Crosby in making this statement.  Thomas Wall had charged John Smith with having baptized himself, and that he afterwards baptized Mr. John Spillsbury, the first minister of the Particular Baptist Church, and that he (Spillsbury) transmitted this same baptism to the English Baptists by succession of baptism.  This Crosby was endeavoring to show was false, and that the English Baptists did not receive their baptism by succession from any minister, either General or Particular, from John Smith or John Spillsbury.  That while most or all of John Spillsbury's church had received baptism from a church in the Netherlands, through Mr. Richard Blount, the greatest number and the more judicious English Baptists had received their baptism just as John Smith had received his, received it through an unbaptized person.”  
+ppg. 45,46.
 
 Had received it how?  Through an unbaptized person, this writer says.  But who was this John Smith?  He was the founder of the General Baptist Church, that is so overly anxious that we should commune with her.  John Smith had been an Episcopalian minister in England, but he laid down his salary in that church and went over into Holland among the Brownists, and began to preach among them and divided them, and with his party of them he started the General Baptist Church.  As he had never been baptized, he received baptism by an unbaptized person.  This is the origin of the General Baptist church, and this is their authority for baptizing.  What is their authority for baptizing?  Simply none at all.  Hence they are not entitled to the communion.  It is the case, sometimes, that men will make a greater noise about what they are not entitled to than they would if it really belonged to them.  But let us read again: 
 
-> “Now, as Ivemy and Crosby, who were members of the Particular Baptist churches, and were unprejudiced and faithful historians, they, as English Baptists, are as well qualified to tell their origin as any others.  We will let them speak.  We will hereafter see, from Crosby, particularly, that while most or all of the members of the first Particular Baptist church, which came out of the Independent Pedobaptist church, that the greatest number and the more judicious of the English Baptists received their baptism just as John Smith and his church, the Baptists in Leicestershire, the Tunkers or German Baptists, and Roger Williams and his church did, by an unbaptized person baptizing and so beginning a reformation.” (pg. 48.)
+> “Now, as Ivemy and Crosby, who were members of the Particular Baptist churches, and were unprejudiced and faithful historians, they, as English Baptists, are as well qualified to tell their origin as any others.  We will let them speak.  We will hereafter see, from Crosby, particularly, that while most or all of the members of the first Particular Baptist church, which came out of the Independent Pedobaptist church, that the greatest number and the more judicious of the English Baptists received their baptism just as John Smith and his church, the Baptists in Leicestershire, the Tunkers or German Baptists, and Roger Williams and his church did, by an unbaptized person baptizing and so beginning a reformation.”  
+pg. 48.
 
 It is very common when people are in trouble, and feel unable to show good reasons for it, to console themselves by saying others are just as bad.  This historian, having to admit that the founder of the General Baptist church was not regularly baptized, would have us believe that we are also in the same predicament.  This, however, we deny, but he admits it in the case of the General Baptists, and tries to argue that baptism is valid when administered by an unbaptized person, and undertakes to prove that that is the doctrine of the Baptists, by showing that such was Benedict’s opinion.  The Baptist doctrine is not simply the opinion of any one man - it is not the opinion of men at all.  
 
@@ -534,7 +603,8 @@ If baptism is valid when administered by an unbaptized person, why ordain a mini
 
 We cannot commune with the General Baptists, because they are not baptized, and we claim that baptism precedes the communion.  We now wish to notice the Freewill Baptists and see what sort of baptism they have.
 
-> “The founder of this denomination (Freewill Baptists) was the Rev. Benjamin Randall.  He was originally a preacher connected with the Calvinistic Baptists.  Having embraced Arminian views, and being disowned by his brethren as being unsound in the faith, he organized a church in New Durham, N. H., on the 30th day of June, 1780.  Soon after this other churches were formed on the same plan, and these churches united together and constituted the New Durham quarterly meeting.” Religious Denominations of the World, pg. 144.
+> “The founder of this denomination (Freewill Baptists) was the Rev. Benjamin Randall.  He was originally a preacher connected with the Calvinistic Baptists.  Having embraced Arminian views, and being disowned by his brethren as being unsound in the faith, he organized a church in New Durham, N. H., on the 30th day of June, 1780.  Soon after this other churches were formed on the same plan, and these churches united together and constituted the New Durham quarterly meeting.”  
+Religious Denominations of the World, pg. 144.
 
 Thus we see that the Freewill Baptists were founded by a man that we had excluded from us.  If he had ever been authorized to administer baptism, that authority was taken from him when we excluded him.  
 
@@ -543,7 +613,7 @@ So the Freewill Baptists have no baptism.  We excluded him from us for heresy, a
 
 Now for us to practice open communion would force us to commune with him, and recognize his baptism, after we had excluded him and taken his authority from him.  I charge that open communionists cannot be consistent, for they will exclude their members for heresy and then commune with them afterwards.  If I was a member of Brother Yates’ church, and would preach as I do, and fight him on the “Foreign Mission” question, and oppose his infant baptism, and his sprinkling and pouring for baptism, he would exclude me for heresy.  
 
-Mr. Yates, “Yes, sir, I would exclude you for heresy.” (Mr. Yates is the Cumberland Presbyterian minister in charge at Owensville, Indiana.) 
+Mr. Yates, “Yes, sir, I would exclude you for heresy.” Mr. Yates is the Cumberland Presbyterian minister in charge at Owensville, Indiana.) 
 
 But then after you had excluded me, you would commune with me if I would join some other church, or get up one of my own, as Randall did.  If that is the order of God’s house, I see no consistency in the whole thing.  But as we have quoted from a Methodist and found that they do not believe that the ordinances are to be administered except by those who are called of God and His church to the work of the ministry, let us take a view of the Methodist church, and see if they have any authority, according to their own doctrine, to administer the ordinances.  
 
@@ -555,15 +625,18 @@ I tell you it is a body that feels as if their claim to the name of a church of 
 
 But now let us look for a people that have existed from the apostles to the present.  It cannot be expected that in a few minutes we could do justice to such a subject, but let us try for a few moments.  Let us read: “There was no difference in point of doctrine between the Novatianists and other Christians.  What peculiarly distinguished them was their refusing to readmit to the communion of the church those who, after baptism, had fallen into the commission of heinous crimes, though they did not pretend that even such were excluded from all possibility or hopes of salvation.  They consider the Christian church as a society where virtue and innocence reigned universally, and none of whose members, from their entrance into it, had defiled themselves with any enormous crime; and, of consequence, they looked upon every society which readmitted heinous offenders to its communion as unworthy of the title of a true Christian church.  
 
-It was from hence, also, that they assumed the title of Cathari, that is, the pure; and what showed still a more extravagant degree of vanity and arrogance, they obliged such as come over to them from the general body of Christians to submit to be baptized a second time, as a necessary preparation for entering into their society.” Mosheim, century 3, part 2, chapter 5, sec. 18.
+It was from hence, also, that they assumed the title of Cathari, that is, the pure; and what showed still a more extravagant degree of vanity and arrogance, they obliged such as come over to them from the general body of Christians to submit to be baptized a second time, as a necessary preparation for entering into their society.”  
+Mosheim, century 3, part 2, chapter 5, sec. 18.
 
 The people mentioned in this quotation separated from the Catholic party A. D. 251, and while Novatian was the most conspicuous among their ministers, and the people were called after his name, it is often the case that he is said to be the founder of his sect, and that it started up at the time before mentioned, but the fact that when he withdrew there were churches and ministers scattered over the whole country at the same time, it is evident that he was not the founder of the sect called Novatianists, but these churches which had kept the ordinances and the doctrine pure from the apostles until the time of the separation, simply refused to follow the Catholic party into the thousand and one new things she was beginning to indulge.  
 
 We are not dependent on Novatian or any other one minister for a succession of baptism, for, at the time of the separation, there were many ministers and churches for baptism to have come through to us.  But let us hear the same historian again, who, by the way, is not a Baptist, but a Lutheran.  He says: “Among the sects that troubled the Latin church during this (12th) century, the principal place is due to the Catharists, whom we already had occasion to mention.  (Then he refers us to the same we have just read.) 
 
-This numerous faction, leaving their first residence, which was in Bulgaria, spread themselves throughout almost all the European provinces, where they occasioned much tumult and disorder; but their fate was unhappy, for, wherever they were caught, they were put to death with the most unrelenting cruelty.” Mosheim, century 12, part 2, sec.  4.
+This numerous faction, leaving their first residence, which was in Bulgaria, spread themselves throughout almost all the European provinces, where they occasioned much tumult and disorder; but their fate was unhappy, for, wherever they were caught, they were put to death with the most unrelenting cruelty.”  
+Mosheim, century 12, part 2, sec.  4.
 
-He says these were the same people he had already mentioned, and then refers us back to the quotation we first made, so that we cannot be mistaken if we say they have come down from the third to the twelfth century, and are known by our historian as the same people.  Their doctrine was that no persons, whatever, were to be admitted to baptism before they were come to the full use of their reason.  We also find them in the eleventh century under the name of Paulicians.  They reject infant baptism.  But again: “The true origin of that sect which acquired the name of Anabaptists, by their administering anew the rite of baptism to those who came over to their communion, and derived that of Mennonites from the famous man, to whom they owe the greatest part of their present felicity, is hid in the remote depths of antiquity, and is, of consequence, extremely difficult to be ascertained.  This uncertainty will not appear surprising, when it is considered that this sect started up all of a sudden, under leaders of different talents and different intentions, and at the very period when the first contests of the Reformers with the Roman pontiffs drew the attention of the world and employed the pens of the learned in such a manner as to render all other objects and incidents almost matters of indifference.  The modern Mennonites not only consider themselves as the descendants of the Waldenses, who were so grievously oppressed and persecuted by the despotic heads of the Roman church, but pretend, moreover, to be the purest offspring of these respectable sufferers, being equally averse to all principles of rebellion on the one hand, and all suggestions of fanaticism on the other.” Mosheim, century 16, part 2, chapter 3, sec.  1.
+He says these were the same people he had already mentioned, and then refers us back to the quotation we first made, so that we cannot be mistaken if we say they have come down from the third to the twelfth century, and are known by our historian as the same people.  Their doctrine was that no persons, whatever, were to be admitted to baptism before they were come to the full use of their reason.  We also find them in the eleventh century under the name of Paulicians.  They reject infant baptism.  But again: “The true origin of that sect which acquired the name of Anabaptists, by their administering anew the rite of baptism to those who came over to their communion, and derived that of Mennonites from the famous man, to whom they owe the greatest part of their present felicity, is hid in the remote depths of antiquity, and is, of consequence, extremely difficult to be ascertained.  This uncertainty will not appear surprising, when it is considered that this sect started up all of a sudden, under leaders of different talents and different intentions, and at the very period when the first contests of the Reformers with the Roman pontiffs drew the attention of the world and employed the pens of the learned in such a manner as to render all other objects and incidents almost matters of indifference.  The modern Mennonites not only consider themselves as the descendants of the Waldenses, who were so grievously oppressed and persecuted by the despotic heads of the Roman church, but pretend, moreover, to be the purest offspring of these respectable sufferers, being equally averse to all principles of rebellion on the one hand, and all suggestions of fanaticism on the other.”  
+Mosheim, century 16, part 2, chapter 3, sec.  1.
 
 If this witness was a Baptist, he might be accused of being partial; but as he is not, he is not very likely to be anxious to show that the Baptists have existed ever since the apostles.  I wish to hear him again and will read from the same chapter.  
 
@@ -572,30 +645,35 @@ If this witness was a Baptist, he might be accused of being partial; but as he i
 From this we are to learn that there were other sects during the dark ages that opposed the Roman Catholic church that differed very materially from our people, yet they were frequently classed with them on account of their opposition to the Catholic church.  It is in this way, no doubt, that our people have been often misrepresented as being guilty of all the doctrines and practices that were entertained during their history, when, as Dr.  Mosheim observes, they differed from others on those points.  
 
 I now introduce another witness, who is by no means a Baptist, and his testimony must be good.  It is Bishop Newton, and he, in his work, is not writing a history, but is proving the authenticity of the scriptures by the fulfillment of the prophesies.  He says: 
-> “But the true witnesses, and, as I may say, the Protestants of this age (12th century) were the Waldenses and Albigenses, who began to be famous at this time, and, being dispersed into various places, were distinguished by various appellations.  Their first and proper name seemeth to have been Vallenses, or inhabitants of the valleys; and so one of the oldest writers, Ebrad, of Bethune, who wrote in the year 1212.  They call themselves Vallenses, because they abide in the valley of tears, alluding to their situation in the valleys of Piedmont.  They were called Albigenses from Alby, a city in the southern part of France, where also great numbers of them were situated.  They were afterwards denominated Valdenses, or Waldenses, from Peter Valdo or Waldo, a rich citizen of Lyons, and a considerable leader of the sect.  From Lyons, too, they were called Leonists, and Cathari from the professed purity of their life and doctrine, as others since have had the name of Puritans.  As there were a variety of names, so there might be some diversity of opinion among them; but that they were not guilty of Manicheism and other abominable heresies, which have been charged upon them, is certain and evident from all the remains of their creeds, confessions and writings.” (ppg.  513,514.)
+> “But the true witnesses, and, as I may say, the Protestants of this age (12th century) were the Waldenses and Albigenses, who began to be famous at this time, and, being dispersed into various places, were distinguished by various appellations.  Their first and proper name seemeth to have been Vallenses, or inhabitants of the valleys; and so one of the oldest writers, Ebrad, of Bethune, who wrote in the year 1212.  They call themselves Vallenses, because they abide in the valley of tears, alluding to their situation in the valleys of Piedmont.  They were called Albigenses from Alby, a city in the southern part of France, where also great numbers of them were situated.  They were afterwards denominated Valdenses, or Waldenses, from Peter Valdo or Waldo, a rich citizen of Lyons, and a considerable leader of the sect.  From Lyons, too, they were called Leonists, and Cathari from the professed purity of their life and doctrine, as others since have had the name of Puritans.  As there were a variety of names, so there might be some diversity of opinion among them; but that they were not guilty of Manicheism and other abominable heresies, which have been charged upon them, is certain and evident from all the remains of their creeds, confessions and writings.”  
+ppg.  513,514.
 
 I am glad Bishop Newton said this, for if he had been a Baptist, he might have been partial, but, being a Pedobaptist, he cannot be accused of being prejudiced in favor of the Waldenses.  It is sometimes said by our opponents that the Waldenses were not free from some very grievous errors, but this writer exonerates them.  But let us read from him again: 
 > “Much hath been written in censure and condemnation of this sect, both by enemies and friends, by Papists and Protestants.  If they have been grossly misrepresented and vilified on one side, they have been amply justified and vindicated on the other; but I will only produce the testimony of three witnesses concerning them, whom both sides must allow to be unexceptionable, Reinerious, Thuanus, and Mezeray.  
 
-> Reinerious flourished about the year 1254, and his testimony is the more remarkable, as he was a Dominician, and inquisitor general.  “Among all the sects, which still are or ever have been, there is not any more pernicious to the church than that of the Leonists.  And this for three reasons.  The first is, because it is older, for some say that it hath endured from the time of Pope Sylvester; others from the time of the apostles.  The second, because it is more general, for there is scarce any country wherein this sect is not.  The third, because when all other sects beget horror in the hearers by the outrageousness of their blasphemies against God, this of the Leonists hath a great show of piety, because they live justly before men, and believe all things rightly concerning God, and all the articles which are contained in the creed; only they blaspheme the church of Rome and the clergy, whom the multitude of the laity is easy to believe.” (ppg.  515,516.) 
+> Reinerious flourished about the year 1254, and his testimony is the more remarkable, as he was a Dominician, and inquisitor general.  “Among all the sects, which still are or ever have been, there is not any more pernicious to the church than that of the Leonists.  And this for three reasons.  The first is, because it is older, for some say that it hath endured from the time of Pope Sylvester; others from the time of the apostles.  The second, because it is more general, for there is scarce any country wherein this sect is not.  The third, because when all other sects beget horror in the hearers by the outrageousness of their blasphemies against God, this of the Leonists hath a great show of piety, because they live justly before men, and believe all things rightly concerning God, and all the articles which are contained in the creed; only they blaspheme the church of Rome and the clergy, whom the multitude of the laity is easy to believe.”  
+ppg.  515,516.
 
 The witness just quoted was once a member of the Waldensian church, and apostatized from it, and became one of their most violent persecutors.  His testimony is good, as he is an enemy, and from what he says, no doubt this people have existed from the apostles to the present time, and that they were what is now denominated Hardshell Baptists.  
 
 If this be true, then we have had no founder of our church but Christ and the apostles, and we have had a connection of baptism all through the dark ages until now.  They have been known by many different names, at different times and in different localities, but it is very evident that they were the same people all the time.  Let us see if history will bear us out in that idea.
 
-> “These Puritans, being exposed to severe and sanguinary persecutions for dissent, from age to age, were compelled to shelter themselves from the desolating storm in retirement; and when at intervals they reappear on the page of contemporary history, and their principles are propagated with new boldness and success, they are styled a new sect, and receive a new name, though in reality they are the same people.” Religious Encyclopedia, pg. 1147.
+> “These Puritans, being exposed to severe and sanguinary persecutions for dissent, from age to age, were compelled to shelter themselves from the desolating storm in retirement; and when at intervals they reappear on the page of contemporary history, and their principles are propagated with new boldness and success, they are styled a new sect, and receive a new name, though in reality they are the same people.”  
+Religious Encyclopedia, pg. 1147.
 
 This is, no doubt, a correct statement concerning them, and it corroborates other historians on the same subject.  But I wish to read again from this same writer.  On the next page he says: 
 
 > “Hence it is hardly to be wondered at that the Waldenses, like the scriptures, have been resorted to by all parties of Protestants in defense of their peculiar sentiments.  The Papists accused the Protestants of being a new sect, whose principles had no existence till the days of Luther.  This charge they all denied, and each party sought to find predecessors, and to trace a line of succession up to the apostles.  The perversions of heresy on the one hand, and 
 the corruptions of popery on the other, left no alternative but to find that succession among the Waldenses.”
 
-It seems from this statement that all Protestants, until recently, claimed that the Waldenses were their predecessors, and were willing to claim that they had an existence from the apostles.  I now wish to introduce Bishop Newton again on this subject.  He says: “Here only some of the principle instances are selected; but this deduction, short and defective as it is, evidently demonstrates, however, that there hath not been that uninterrupted union and harmony which the members of the church of Rome pretend to boast to have been before the Reformation, and at the same time it plainly evinces that they betray great ignorance, as well as impertinence, in asking the question, ‘Where was your religion before Luther?’ Our religion, we see, was in the hearts and lives of many faithful witnesses; but it is sufficient if it was nowhere else, that it was always in the Bible.” (pg. 526.)
+It seems from this statement that all Protestants, until recently, claimed that the Waldenses were their predecessors, and were willing to claim that they had an existence from the apostles.  I now wish to introduce Bishop Newton again on this subject.  He says: “Here only some of the principle instances are selected; but this deduction, short and defective as it is, evidently demonstrates, however, that there hath not been that uninterrupted union and harmony which the members of the church of Rome pretend to boast to have been before the Reformation, and at the same time it plainly evinces that they betray great ignorance, as well as impertinence, in asking the question, ‘Where was your religion before Luther?’ Our religion, we see, was in the hearts and lives of many faithful witnesses; but it is sufficient if it was nowhere else, that it was always in the Bible.”  
+pg. 526.
 
 You see how the Bishop agrees with our former witness, that Protestants claimed that their religion, before Luther, was among the Waldenses.  And he says the members of the church of Rome betray great ignorance and impertinence when they ask where our religion was before Luther.  It is very evident that Bishop Newton, although a High Churchman, believed that the Waldenses have existed from the apostles.  
 
 But we are often told that those people were not Baptists, for among all the names they had, they were not called Baptists before the Reformation.  Let us see if that is true.  Listen at us read: 
-> “But here again it was a Roman Bishop, Stephanus, who, instigated by the spirit of ecclesiastical arrogance, domination and zeal without knowledge, attached to this point of dispute a paramount importance.  Hence, toward the close of the year 253, he issued a sentence of excommunication against the bishops of Asia Minor, Cappadocia, Galatia, and Cilicia, stigmatizing them as Anabaptists, a name, however, which they could justly affirm they did not deserve by their principles, for it was not their wish to administer a second baptism to those who had already been baptized, but they contended that the previous baptism, given by heretics, could not be recognized as a true one.” Neander, vol. 1, pg. 318.
+> “But here again it was a Roman Bishop, Stephanus, who, instigated by the spirit of ecclesiastical arrogance, domination and zeal without knowledge, attached to this point of dispute a paramount importance.  Hence, toward the close of the year 253, he issued a sentence of excommunication against the bishops of Asia Minor, Cappadocia, Galatia, and Cilicia, stigmatizing them as Anabaptists, a name, however, which they could justly affirm they did not deserve by their principles, for it was not their wish to administer a second baptism to those who had already been baptized, but they contended that the previous baptism, given by heretics, could not be recognized as a true one.”  
+Neander, vol. 1, pg. 318.
 
 You see, then, that they were called Anabaptists long before the Reformation.  Now, from the sketches I have quoted to you, and many others that I might refer to, I claim that there has been a people all along, from the apostles, that have preserved the ordinances of the church.  I claim that they are our people, and that it is easy to trace them through the dark ages by their blood.  I know the Lord did set up a church on earth, and I know, if his word is true, it still exists, for the prophet said it should never be destroyed, but it should stand forever.  They have always baptized those who came to them from other sects.  We do the same yet, for the same reasons that they did.  I have now shown you that baptism, in the order of the gospel, must precede the Lord's Supper; and that immersion is the only gospel mode of baptism; and that believers are the only gospel subjects; and that, having all these, it is necessary to valid baptism that we have the gospel design; and that we may have all these and yet, for want of a proper administrator, we may not have gospel baptism.  
 
@@ -612,7 +690,8 @@ As it is my calculation, now, to publish a synopsis of my discourses, you will a
 On that account I am here this week to defend, if I can, our position on the Communion question.  We have been spoken of as not having any reasons for our course.  We may not have good reasons, but they satisfy us, and we are willing to give them and let you consider them.  We have said that we are often accused of being selfish because we do not admit others to our communion, and that it does not look friendly on our part.  I have shown you that the Lord’s Supper is not a test of friendship.  Whoever read in the New Testament that the Supper is a test of friendship?  It is a commemorative rite; it commemorates the death of Christ.  We are not unfriendly to others because we do not commune with them, neither do we unchristianize them.  But if we must either offend them or God, we prefer to please the Lord.  We do not wish to be so friendly with any one that we will incur the disapprobation of God, in order to please them.  
 
 We read: 
-> “Then they that gladly received his word were baptized; and the same day there were added unto them about three thousand souls.  And they continued steadfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.”  Acts 2:41,42.  
+> “Then they that gladly received his word were baptized; and the same day there were added unto them about three thousand souls.  And they continued steadfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.”   
+Acts 2:41,42.  
 
 From this text of scripture, we get the course of the first Christians after the ascension of our Savior.  They continued in the apostles’ doctrine, as though doctrine is a very essential feature in the Christian system.  
 
@@ -631,7 +710,8 @@ We frequently hear it said, that it does not matter what a man believes, if he i
 If it does not matter what a man believes, so he is honest in it, Colonel Ingersoll is all right, provided he is honest in what he says he believes.  Doctrine was so essential to the church that the apostles and first Christians continued steadfastly in the doctrine.  We learn from this text that an agreement in doctrine must be essential to the communion.  I am of the opinion that those who are willing to not mention doctrinal differences, do not care to have their doctrinal positions investigated.
 
 The apostle Jude said: 
-> “It was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the Saints.” Such a thing being needful, reminds us of two things: that the faith is likely to be opposed, and that such opposition is dangerous to the welfare of the church.  If it was needful in the days of the apostles, it is certainly still needful.  How are we going to heed this exhortation of Jude, if we do not let doctrinal differences make any difference with us?  If doctrinal differences amount to nothing, why did the Apostle John write as he did?  “Whosoever transgresseth and abideth not in the doctrine of Christ, hath not God.  He that abideth in the doctrine of Christ, hath both the Father and the Son.  If there come any unto you and bring not this doctrine, receive him not into your house; neither bid him God speed.  For he that biddeth him God speed is partaker of his evil deeds.” 1 John 2:9-11.  
+> “It was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the Saints.” Such a thing being needful, reminds us of two things: that the faith is likely to be opposed, and that such opposition is dangerous to the welfare of the church.  If it was needful in the days of the apostles, it is certainly still needful.  How are we going to heed this exhortation of Jude, if we do not let doctrinal differences make any difference with us?  If doctrinal differences amount to nothing, why did the Apostle John write as he did?  “Whosoever transgresseth and abideth not in the doctrine of Christ, hath not God.  He that abideth in the doctrine of Christ, hath both the Father and the Son.  If there come any unto you and bring not this doctrine, receive him not into your house; neither bid him God speed.  For he that biddeth him God speed is partaker of his evil deeds.”  
+1 John 2:9-11.  
 
 Now, this is the plain, unmistakable word of God, and no Christian, that wishes the Lord to approbate his course, as an obedient servant, should be willing to set at naught the plain injunctions of God's word, to gratify his sympathy for his Christian neighbor.  This word says, receive him not into your house, neither bid him God speed, for if you do, you are partaker of his evil deeds.  
 
@@ -644,11 +724,17 @@ The Apostle Paul exhorted Timothy to
 
 Are there now, or have there ever been, heresies among the great number of sects in the world, which claim to be churches or branches of the Church of Christ?  How are we to commune with those errorists and not partake of the evil effects of their doctrine?  We divide character with the people we affiliate with, not only morally, but doctrinally and practically, and we thus become responsible for the bad effects of their errors.  The salvation of the church, in some way, depends on the maintenance of the doctrine, if the text means anything.  
 
-Some seem to think, when the scripture speaks of saving, eternal salvation is meant, and if it is, then doctrine is essential to the eternal salvation of those to whom we preach.  Then it becomes highly necessary that we take heed to the doctrine.  But while I do not believe it to be necessary to our eternal salvation, yet I do believe it is essential to the glory of God, and the welfare of his church.  For this purpose the ministry was given to the church, as the apostle observes, “That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive.” Eph. 4:14.  
+Some seem to think, when the scripture speaks of saving, eternal salvation is meant, and if it is, then doctrine is essential to the eternal salvation of those to whom we preach.  Then it becomes highly necessary that we take heed to the doctrine.  But while I do not believe it to be necessary to our eternal salvation, yet I do believe it is essential to the glory of God, and the welfare of his church.  For this purpose the ministry was given to the church, as the apostle observes, 
+> “That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive.”  
+Eph. 4:14.  
 
 We cannot be saved from every wind of doctrine, unless we take heed unto the doctrine.  How are we to do that, and yet say doctrinal differences should not make any difference with us?  I do not know.  Paul tells the church to reject the man that is an heretic, after the first and second admonition; but how can we do that, if, after we have excluded him, as we did Randall, he sets up another church as Randall did—the Freewill Baptist Church—and then we commune with him, on the grounds that we are open communionists, and our doctrinal differences should not hinder us from communing together?  
 
-An agreement on doctrine seems to be necessary to fellowship.  The prophet said, “Can two walk together, except they be agreed?” Amos 3:3.  Hence, it seems that if we do not agree we cannot walk together, and if we cannot walk together, we cannot be in fellowship, and if we are not in fellowship, we cannot commune together.  But the practice of open communion would force us to commune with those for whom we have no fellowship.  We do not exclude from our fellowship those for whom we have fellowship, and after we exclude a member for want of fellowship, and he goes away and joins another denomination, if he should come to our communion we have either to practice close communion, or commune with him.  
+An agreement on doctrine seems to be necessary to fellowship.  The prophet said, 
+> “Can two walk together, except they be agreed?”  
+Amos 3:3.  
+
+Hence, it seems that if we do not agree we cannot walk together, and if we cannot walk together, we cannot be in fellowship, and if we are not in fellowship, we cannot commune together.  But the practice of open communion would force us to commune with those for whom we have no fellowship.  We do not exclude from our fellowship those for whom we have fellowship, and after we exclude a member for want of fellowship, and he goes away and joins another denomination, if he should come to our communion we have either to practice close communion, or commune with him.  
 
 There is no doubt in my mind but that the members of the church must be in fellowship, in order to take the Sacrament of the Lord’s Supper.  It was intended, in the very nature of the organization of the church, that fellowship should prevail.  A church is not in order to take the supper if her members are not in fellowship with each other.  As an evidence of this fact, I think the apostle speaks of it in his first letter to the Corinthians.  
 > “For first of all when ye come together in the church, I hear that there be divisions (or schisms) among you, and I partly believe it.  For there must be also heresies (or sects) among you, that they which are approved may be made manifest among you.  When ye come together, therefore, into one place, this is not to (or ye cannot) eat the Lord's Supper.  For in eating (or if ye eat under these circumstances) every one taketh before other his own supper, and one is hungry and another is drunken.” 
