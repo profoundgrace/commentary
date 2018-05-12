@@ -1,12 +1,10 @@
 ﻿### J. Harvey Daily’s
+
 # CHURCH HISTORY
 
-Republished 2007
-
-Primitive Publications
-
-4027 N NC 87
-
+Republished 2007  
+Primitive Publications  
+4027 N NC 87  
 Elon NC 2742
 
 ### PREFACE
